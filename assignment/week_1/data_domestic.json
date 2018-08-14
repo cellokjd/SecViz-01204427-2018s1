@@ -1,0 +1,1497 @@
+{
+    "edges": [
+        {
+            "attributes": {},
+            "size": 50.0,
+            "sourceID": "AS4652",
+            "targetID": "AS45265"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS4652",
+            "targetID": "AS38081"
+        },
+        {
+            "attributes": {},
+            "size": 1.0,
+            "sourceID": "AS4652",
+            "targetID": "AS45667"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS4652",
+            "targetID": "AS45642"
+        },
+        {
+            "attributes": {},
+            "size": 30.0,
+            "sourceID": "AS4652",
+            "targetID": "AS45458"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS4652",
+            "targetID": "AS132280"
+        },
+        {
+            "attributes": {},
+            "size": 450.0,
+            "sourceID": "AS4652",
+            "targetID": "AS9931"
+        },
+        {
+            "attributes": {},
+            "size": 31.0,
+            "sourceID": "AS4652",
+            "targetID": "AS4618"
+        },
+        {
+            "attributes": {},
+            "size": 11.0,
+            "sourceID": "AS4652",
+            "targetID": "AS4765"
+        },
+        {
+            "attributes": {},
+            "size": 1.0,
+            "sourceID": "AS4652",
+            "targetID": "AS7616"
+        },
+        {
+            "attributes": {},
+            "size": 3.0,
+            "sourceID": "AS4652",
+            "targetID": "AS4741"
+        },
+        {
+            "attributes": {},
+            "size": 70.0,
+            "sourceID": "AS4652",
+            "targetID": "AS45758"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS4652",
+            "targetID": "AS24187"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS4652",
+            "targetID": "AS23932"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS4652",
+            "targetID": "AS7654"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS4652",
+            "targetID": "AS24299"
+        },
+        {
+            "attributes": {},
+            "size": 202.0,
+            "sourceID": "AS4652",
+            "targetID": "AS23884"
+        },
+        {
+            "attributes": {},
+            "size": 100.0,
+            "sourceID": "AS4652",
+            "targetID": "AS7470"
+        },
+        {
+            "attributes": {},
+            "size": 1.0,
+            "sourceID": "AS4652",
+            "targetID": "AS4637"
+        },
+        {
+            "attributes": {},
+            "size": 2.0,
+            "sourceID": "AS4652",
+            "targetID": "AS7693"
+        },
+        {
+            "attributes": {},
+            "size": 40.0,
+            "sourceID": "AS4652",
+            "targetID": "AS23969"
+        },
+        {
+            "attributes": {},
+            "size": 50.0,
+            "sourceID": "AS4652",
+            "targetID": "AS38794"
+        },
+        {
+            "attributes": {},
+            "size": 0.1,
+            "sourceID": "AS4652",
+            "targetID": "AS38888"
+        },
+        {
+            "attributes": {},
+            "size": 0.25,
+            "sourceID": "AS4652",
+            "targetID": "AS45142"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS4652",
+            "targetID": "AS45328"
+        },
+        {
+            "attributes": {},
+            "size": 1.0,
+            "sourceID": "AS4652",
+            "targetID": "AS45606"
+        },
+        {
+            "attributes": {},
+            "size": 1.0,
+            "sourceID": "AS4652",
+            "targetID": "AS38566"
+        },
+        {
+            "attributes": {},
+            "size": 3.0,
+            "sourceID": "AS4652",
+            "targetID": "AS131293"
+        },
+        {
+            "attributes": {},
+            "size": 100.0,
+            "sourceID": "AS4652",
+            "targetID": "AS131090"
+        },
+        {
+            "attributes": {},
+            "size": 2.0,
+            "sourceID": "AS4652",
+            "targetID": "AS45413"
+        },
+        {
+            "attributes": {},
+            "size": 30.0,
+            "sourceID": "AS4652",
+            "targetID": "AS5639"
+        },
+        {
+            "attributes": {},
+            "size": 1.0,
+            "sourceID": "AS4652",
+            "targetID": "AS17887"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS4652",
+            "targetID": "AS59238"
+        },
+        {
+            "attributes": {},
+            "size": 40.0,
+            "sourceID": "AS4652",
+            "targetID": "AS4621"
+        },
+        {
+            "attributes": {},
+            "size": 0.8,
+            "sourceID": "AS4652",
+            "targetID": "AS38328"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS4652",
+            "targetID": "AS56067"
+        },
+        {
+            "attributes": {},
+            "size": 1.0,
+            "sourceID": "AS4652",
+            "targetID": "AS134509"
+        },
+        {
+            "attributes": {},
+            "size": 40.0,
+            "sourceID": "AS45265",
+            "targetID": "AS45642"
+        },
+        {
+            "attributes": {},
+            "size": 140.0,
+            "sourceID": "AS45265",
+            "targetID": "AS45458"
+        },
+        {
+            "attributes": {},
+            "size": 160.0,
+            "sourceID": "AS45265",
+            "targetID": "AS38081"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS45265",
+            "targetID": "AS37930"
+        },
+        {
+            "attributes": {},
+            "size": 50.0,
+            "sourceID": "AS45265",
+            "targetID": "AS4652"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS45265",
+            "targetID": "AS45667"
+        },
+        {
+            "attributes": {},
+            "size": 1.0,
+            "sourceID": "AS45265",
+            "targetID": "AS45788"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS45265",
+            "targetID": "AS63529"
+        },
+        {
+            "attributes": {},
+            "size": 40.0,
+            "sourceID": "AS45265",
+            "targetID": "AS133543"
+        },
+        {
+            "attributes": {},
+            "size": 130.0,
+            "sourceID": "AS45265",
+            "targetID": "AS4750"
+        },
+        {
+            "attributes": {},
+            "size": 80.0,
+            "sourceID": "AS45265",
+            "targetID": "AS45758"
+        },
+        {
+            "attributes": {},
+            "size": 100.0,
+            "sourceID": "AS45265",
+            "targetID": "AS23969"
+        },
+        {
+            "attributes": {},
+            "size": 40.0,
+            "sourceID": "AS45642",
+            "targetID": "AS45265"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS45642",
+            "targetID": "AS37930"
+        },
+        {
+            "attributes": {},
+            "size": 0.155,
+            "sourceID": "AS45642",
+            "targetID": "AS45667"
+        },
+        {
+            "attributes": {},
+            "size": 160.0,
+            "sourceID": "AS45642",
+            "targetID": "AS38081"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS45642",
+            "targetID": "AS4652"
+        },
+        {
+            "attributes": {},
+            "size": 5.0,
+            "sourceID": "AS45642",
+            "targetID": "AS133543"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS45642",
+            "targetID": "AS45458"
+        },
+        {
+            "attributes": {},
+            "size": 330.0,
+            "sourceID": "AS45642",
+            "targetID": "AS45758"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS45642",
+            "targetID": "AS7616"
+        },
+        {
+            "attributes": {},
+            "size": 2.0,
+            "sourceID": "AS45642",
+            "targetID": "AS45455"
+        },
+        {
+            "attributes": {},
+            "size": 40.0,
+            "sourceID": "AS45642",
+            "targetID": "AS4618"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS45642",
+            "targetID": "AS23969"
+        },
+        {
+            "attributes": {},
+            "size": 180.0,
+            "sourceID": "AS45642",
+            "targetID": "AS23884"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS45642",
+            "targetID": "AS45328"
+        },
+        {
+            "attributes": {},
+            "size": 1.5,
+            "sourceID": "AS45642",
+            "targetID": "AS55403"
+        },
+        {
+            "attributes": {},
+            "size": 1.0,
+            "sourceID": "AS45642",
+            "targetID": "AS4741"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS45642",
+            "targetID": "AS38566"
+        },
+        {
+            "attributes": {},
+            "size": 140.0,
+            "sourceID": "AS45458",
+            "targetID": "AS45265"
+        },
+        {
+            "attributes": {},
+            "size": 80.0,
+            "sourceID": "AS45458",
+            "targetID": "AS38081"
+        },
+        {
+            "attributes": {},
+            "size": 30.0,
+            "sourceID": "AS45458",
+            "targetID": "AS4652"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS45458",
+            "targetID": "AS133543"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS45458",
+            "targetID": "AS45642"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS45458",
+            "targetID": "AS37930"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS45458",
+            "targetID": "AS45667"
+        },
+        {
+            "attributes": {},
+            "size": 130.0,
+            "sourceID": "AS45458",
+            "targetID": "AS45758"
+        },
+        {
+            "attributes": {},
+            "size": 408.0,
+            "sourceID": "AS45458",
+            "targetID": "AS45458"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS45458",
+            "targetID": "AS4618"
+        },
+        {
+            "attributes": {},
+            "size": 130.0,
+            "sourceID": "AS45458",
+            "targetID": "AS23884"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS45458",
+            "targetID": "AS45328"
+        },
+        {
+            "attributes": {},
+            "size": 1.5,
+            "sourceID": "AS45458",
+            "targetID": "AS55403"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS45458",
+            "targetID": "AS23932"
+        },
+        {
+            "attributes": {},
+            "size": 100.0,
+            "sourceID": "AS45458",
+            "targetID": "AS23969"
+        },
+        {
+            "attributes": {},
+            "size": 11.0,
+            "sourceID": "AS132880",
+            "targetID": "AS133543"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS132880",
+            "targetID": "AS38081"
+        },
+        {
+            "attributes": {},
+            "size": 40.0,
+            "sourceID": "AS132880",
+            "targetID": "AS132280"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS132880",
+            "targetID": "AS45458"
+        },
+        {
+            "attributes": {},
+            "size": 130.0,
+            "sourceID": "AS132880",
+            "targetID": "AS4776"
+        },
+        {
+            "attributes": {},
+            "size": 5.0,
+            "sourceID": "AS132880",
+            "targetID": "AS23884"
+        },
+        {
+            "attributes": {},
+            "size": 400.0,
+            "sourceID": "AS132880",
+            "targetID": "AS45142"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS132880",
+            "targetID": "AS4621"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS45667",
+            "targetID": "AS37930"
+        },
+        {
+            "attributes": {},
+            "size": 1.0,
+            "sourceID": "AS45667",
+            "targetID": "AS4652"
+        },
+        {
+            "attributes": {},
+            "size": 0.155,
+            "sourceID": "AS45667",
+            "targetID": "AS45642"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS45667",
+            "targetID": "AS45265"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS45667",
+            "targetID": "AS38081"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS45667",
+            "targetID": "AS133543"
+        },
+        {
+            "attributes": {},
+            "size": 100.0,
+            "sourceID": "AS45667",
+            "targetID": "AS63529"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS45667",
+            "targetID": "AS45458"
+        },
+        {
+            "attributes": {},
+            "size": 5.0,
+            "sourceID": "AS45667",
+            "targetID": "AS137248"
+        },
+        {
+            "attributes": {},
+            "size": 1.0,
+            "sourceID": "AS45667",
+            "targetID": "AS4618"
+        },
+        {
+            "attributes": {},
+            "size": 270.0,
+            "sourceID": "AS45667",
+            "targetID": "AS23932"
+        },
+        {
+            "attributes": {},
+            "size": 240.0,
+            "sourceID": "AS45667",
+            "targetID": "AS17887"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS45667",
+            "targetID": "AS23969"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS38081",
+            "targetID": "AS4652"
+        },
+        {
+            "attributes": {},
+            "size": 30.0,
+            "sourceID": "AS38081",
+            "targetID": "AS37930"
+        },
+        {
+            "attributes": {},
+            "size": 160.0,
+            "sourceID": "AS38081",
+            "targetID": "AS45265"
+        },
+        {
+            "attributes": {},
+            "size": 80.0,
+            "sourceID": "AS38081",
+            "targetID": "AS45458"
+        },
+        {
+            "attributes": {},
+            "size": 160.0,
+            "sourceID": "AS38081",
+            "targetID": "AS45642"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS38081",
+            "targetID": "AS45667"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS38081",
+            "targetID": "AS7693"
+        },
+        {
+            "attributes": {},
+            "size": 240.0,
+            "sourceID": "AS38081",
+            "targetID": "AS7470"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS38081",
+            "targetID": "AS38566"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS38081",
+            "targetID": "AS45328"
+        },
+        {
+            "attributes": {},
+            "size": 1.0,
+            "sourceID": "AS38081",
+            "targetID": "AS24187"
+        },
+        {
+            "attributes": {},
+            "size": 70.0,
+            "sourceID": "AS38081",
+            "targetID": "AS23884"
+        },
+        {
+            "attributes": {},
+            "size": 4.0,
+            "sourceID": "AS38081",
+            "targetID": "AS7654"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS38081",
+            "targetID": "AS4618"
+        },
+        {
+            "attributes": {},
+            "size": 0.2,
+            "sourceID": "AS38081",
+            "targetID": "AS4776"
+        },
+        {
+            "attributes": {},
+            "size": 2.5,
+            "sourceID": "AS38081",
+            "targetID": "AS38794"
+        },
+        {
+            "attributes": {},
+            "size": 40.0,
+            "sourceID": "AS38081",
+            "targetID": "AS56309"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS38081",
+            "targetID": "AS132880"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS37930",
+            "targetID": "AS45265"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS37930",
+            "targetID": "AS45642"
+        },
+        {
+            "attributes": {},
+            "size": 30.0,
+            "sourceID": "AS37930",
+            "targetID": "AS38081"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS37930",
+            "targetID": "AS45667"
+        },
+        {
+            "attributes": {},
+            "size": 50.0,
+            "sourceID": "AS37930",
+            "targetID": "AS23974"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS37930",
+            "targetID": "AS131293"
+        },
+        {
+            "attributes": {},
+            "size": 40.0,
+            "sourceID": "AS37930",
+            "targetID": "AS45328"
+        },
+        {
+            "attributes": {},
+            "size": 1.0,
+            "sourceID": "AS37930",
+            "targetID": "AS7693"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS37930",
+            "targetID": "AS4618"
+        },
+        {
+            "attributes": {},
+            "size": 30.0,
+            "sourceID": "AS37930",
+            "targetID": "AS23884"
+        },
+        {
+            "attributes": {},
+            "size": 160.0,
+            "sourceID": "AS37930",
+            "targetID": "AS23969"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS37930",
+            "targetID": "AS23932"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS37930",
+            "targetID": "AS24187"
+        },
+        {
+            "attributes": {},
+            "size": 40.0,
+            "sourceID": "AS37930",
+            "targetID": "AS5639"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS37930",
+            "targetID": "AS132280"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS37930",
+            "targetID": "AS9931"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS37930",
+            "targetID": "AS38794"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS37930",
+            "targetID": "AS135640"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS37930",
+            "targetID": "AS45458"
+        },
+        {
+            "attributes": {},
+            "size": 40.0,
+            "sourceID": "AS37930",
+            "targetID": "AS134166"
+        },
+        {
+            "attributes": {},
+            "size": 1.0,
+            "sourceID": "AS37930",
+            "targetID": "AS38450"
+        },
+        {
+            "attributes": {},
+            "size": 40.0,
+            "sourceID": "AS133543",
+            "targetID": "AS45265"
+        },
+        {
+            "attributes": {},
+            "size": 5.0,
+            "sourceID": "AS133543",
+            "targetID": "AS45642"
+        },
+        {
+            "attributes": {},
+            "size": 1.0,
+            "sourceID": "AS133543",
+            "targetID": "AS132280"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS133543",
+            "targetID": "AS45458"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS133543",
+            "targetID": "AS63529"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS133543",
+            "targetID": "AS45667"
+        },
+        {
+            "attributes": {},
+            "size": 160.0,
+            "sourceID": "AS133543",
+            "targetID": "AS9587"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS133543",
+            "targetID": "AS4618"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS63529",
+            "targetID": "AS45796"
+        },
+        {
+            "attributes": {},
+            "size": 100.0,
+            "sourceID": "AS63529",
+            "targetID": "AS45667"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS63529",
+            "targetID": "AS133543"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS63529",
+            "targetID": "AS45265"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS63529",
+            "targetID": "AS45758"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS63529",
+            "targetID": "AS4618"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS63529",
+            "targetID": "AS24187"
+        },
+        {
+            "attributes": {},
+            "size": 1.0,
+            "sourceID": "AS63529",
+            "targetID": "AS38566"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS63529",
+            "targetID": "AS4621"
+        },
+        {
+            "attributes": {},
+            "size": 1.0,
+            "sourceID": "AS63529",
+            "targetID": "AS9835"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS63529",
+            "targetID": "AS7470"
+        },
+        {
+            "attributes": {},
+            "size": 10.0,
+            "sourceID": "AS63529",
+            "targetID": "AS38794"
+        },
+        {
+            "attributes": {},
+            "size": 1.0,
+            "sourceID": "AS63529",
+            "targetID": "AS4767"
+        },
+        {
+            "attributes": {},
+            "size": 20.0,
+            "sourceID": "AS63529",
+            "targetID": "AS59238"
+        }
+    ],
+    "nodes": [
+        {
+            "attributes": {},
+            "color": "#9460FC",
+            "id": "AS45265",
+            "label": "CSL-IX",
+            "size": 41.7,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "attributes": {},
+            "color": "#4DF8E7",
+            "id": "AS38081",
+            "label": "TIG-IX",
+            "size": 44.59,
+            "x": 2,
+            "y": 2
+        },
+        {
+            "attributes": {},
+            "color": "#662394",
+            "id": "AS45667",
+            "label": "TCCT-IX",
+            "size": 27.610333333333333,
+            "x": 4,
+            "y": 4
+        },
+        {
+            "attributes": {},
+            "color": "#125E83",
+            "id": "AS45642",
+            "label": "Jastel-IX",
+            "size": 37.827,
+            "x": 6,
+            "y": 6
+        },
+        {
+            "attributes": {},
+            "color": "#D7350C",
+            "id": "AS45458",
+            "label": "AWN-IX",
+            "size": 60.583333333333336,
+            "x": 8,
+            "y": 8
+        },
+        {
+            "attributes": {},
+            "color": "#C5F9E3",
+            "id": "AS132280",
+            "label": "Symphony-ISP",
+            "size": 2.033333333333333,
+            "x": 10,
+            "y": 10
+        },
+        {
+            "attributes": {},
+            "color": "#135159",
+            "id": "AS9931",
+            "label": "CAT-ISP",
+            "size": 15.333333333333334,
+            "x": 12,
+            "y": 12
+        },
+        {
+            "attributes": {},
+            "color": "#E269CB",
+            "id": "AS4618",
+            "label": "INET",
+            "size": 5.733333333333333,
+            "x": 14,
+            "y": 14
+        },
+        {
+            "attributes": {},
+            "color": "#B55BB6",
+            "id": "AS4765",
+            "label": "Pacific Internet",
+            "size": 0.36666666666666664,
+            "x": 16,
+            "y": 16
+        },
+        {
+            "attributes": {},
+            "color": "#4B688F",
+            "id": "AS7616",
+            "label": "Ji-NET",
+            "size": 0.7,
+            "x": 18,
+            "y": 18
+        },
+        {
+            "attributes": {},
+            "color": "#CD3B43",
+            "id": "AS4741",
+            "label": "SAMART Infonet",
+            "size": 0.13333333333333333,
+            "x": 20,
+            "y": 20
+        },
+        {
+            "attributes": {},
+            "color": "#E35465",
+            "id": "AS45758",
+            "label": "Triple T Internet/ Triple T Broadband",
+            "size": 21.0,
+            "x": 22,
+            "y": 22
+        },
+        {
+            "attributes": {},
+            "color": "#AB5ED0",
+            "id": "AS24187",
+            "label": "KIRZ",
+            "size": 1.0333333333333334,
+            "x": 24,
+            "y": 24
+        },
+        {
+            "attributes": {},
+            "color": "#EBC2A6",
+            "id": "AS23932",
+            "label": "OTARO",
+            "size": 10.333333333333334,
+            "x": 26,
+            "y": 26
+        },
+        {
+            "attributes": {},
+            "color": "#DBE0C8",
+            "id": "AS7654",
+            "label": "ISSP",
+            "size": 0.4666666666666667,
+            "x": 28,
+            "y": 28
+        },
+        {
+            "attributes": {},
+            "color": "#95714F",
+            "id": "AS24299",
+            "label": "ISSP",
+            "size": 0.3333333333333333,
+            "x": 30,
+            "y": 30
+        },
+        {
+            "attributes": {},
+            "color": "#5357FB",
+            "id": "AS23884",
+            "label": "PROEN Internet",
+            "size": 20.566666666666666,
+            "x": 32,
+            "y": 32
+        },
+        {
+            "attributes": {},
+            "color": "#1C336D",
+            "id": "AS7470",
+            "label": "True Internet Corporation",
+            "size": 11.666666666666666,
+            "x": 34,
+            "y": 34
+        },
+        {
+            "attributes": {},
+            "color": "#C98B39",
+            "id": "AS4637",
+            "label": "Telstra",
+            "size": 0.03333333333333333,
+            "x": 36,
+            "y": 36
+        },
+        {
+            "attributes": {},
+            "color": "#A31812",
+            "id": "AS7693",
+            "label": "KSC",
+            "size": 0.43333333333333335,
+            "x": 38,
+            "y": 38
+        },
+        {
+            "attributes": {},
+            "color": "#1BF103",
+            "id": "AS23969",
+            "label": "TOT ISP",
+            "size": 14.333333333333334,
+            "x": 40,
+            "y": 40
+        },
+        {
+            "attributes": {},
+            "color": "#8AB852",
+            "id": "AS38794",
+            "label": "UIH/ BEENET",
+            "size": 2.4166666666666665,
+            "x": 42,
+            "y": 42
+        },
+        {
+            "attributes": {},
+            "color": "#EDD8CB",
+            "id": "AS38888",
+            "label": "MILCOM",
+            "size": 0.0033333333333333335,
+            "x": 44,
+            "y": 44
+        },
+        {
+            "attributes": {},
+            "color": "#04F844",
+            "id": "AS45142",
+            "label": "Loxley",
+            "size": 13.341666666666667,
+            "x": 46,
+            "y": 46
+        },
+        {
+            "attributes": {},
+            "color": "#F4D569",
+            "id": "AS45328",
+            "label": "NIPA.CLOUD",
+            "size": 4.0,
+            "x": 48,
+            "y": 48
+        },
+        {
+            "attributes": {},
+            "color": "#88E885",
+            "id": "AS45606",
+            "label": "101 Global",
+            "size": 0.03333333333333333,
+            "x": 50,
+            "y": 50
+        },
+        {
+            "attributes": {},
+            "color": "#4073E6",
+            "id": "AS38566",
+            "label": "NTT (TH)",
+            "size": 0.7333333333333333,
+            "x": 52,
+            "y": 52
+        },
+        {
+            "attributes": {},
+            "color": "#74E682",
+            "id": "AS131293",
+            "label": "TOT LLI",
+            "size": 0.7666666666666667,
+            "x": 54,
+            "y": 54
+        },
+        {
+            "attributes": {},
+            "color": "#E6E18D",
+            "id": "AS131090",
+            "label": "CAT ON Net",
+            "size": 3.3333333333333335,
+            "x": 56,
+            "y": 56
+        },
+        {
+            "attributes": {},
+            "color": "#0E95C2",
+            "id": "AS45413",
+            "label": "ServeNET",
+            "size": 0.06666666666666667,
+            "x": 58,
+            "y": 58
+        },
+        {
+            "attributes": {},
+            "color": "#12CF8E",
+            "id": "AS5639",
+            "label": "SIAMDATA",
+            "size": 2.3333333333333335,
+            "x": 60,
+            "y": 60
+        },
+        {
+            "attributes": {},
+            "color": "#478605",
+            "id": "AS17887",
+            "label": "TCCT-ISP",
+            "size": 8.033333333333333,
+            "x": 62,
+            "y": 62
+        },
+        {
+            "attributes": {},
+            "color": "#4F5252",
+            "id": "AS59238",
+            "label": "INOX",
+            "size": 1.0,
+            "x": 64,
+            "y": 64
+        },
+        {
+            "attributes": {},
+            "color": "#903335",
+            "id": "AS4621",
+            "label": "UniNet",
+            "size": 2.3333333333333335,
+            "x": 66,
+            "y": 66
+        },
+        {
+            "attributes": {},
+            "color": "#DE8C8D",
+            "id": "AS38328",
+            "label": "ICT MOF",
+            "size": 0.02666666666666667,
+            "x": 68,
+            "y": 68
+        },
+        {
+            "attributes": {},
+            "color": "#1107B6",
+            "id": "AS56067",
+            "label": "Metrabyte",
+            "size": 0.3333333333333333,
+            "x": 70,
+            "y": 70
+        },
+        {
+            "attributes": {},
+            "color": "#D61508",
+            "id": "AS134509",
+            "label": "1-TO-ALL",
+            "size": 0.03333333333333333,
+            "x": 72,
+            "y": 72
+        },
+        {
+            "attributes": {},
+            "color": "#735E01",
+            "id": "AS37930",
+            "label": "TOT-IX",
+            "size": 22.066666666666666,
+            "x": 74,
+            "y": 74
+        },
+        {
+            "attributes": {},
+            "color": "#D27AD9",
+            "id": "AS4652",
+            "label": "CAT-IX (Bangrak/Nonthaburi)",
+            "size": 48.43833333333333,
+            "x": 76,
+            "y": 76
+        },
+        {
+            "attributes": {},
+            "color": "#51BE53",
+            "id": "AS45788",
+            "label": "BB Connect-IX (UIH/BEENET)",
+            "size": 0.03333333333333333,
+            "x": 78,
+            "y": 78
+        },
+        {
+            "attributes": {},
+            "color": "#7CF21F",
+            "id": "AS63529",
+            "label": "BKNIX",
+            "size": 12.766666666666666,
+            "x": 80,
+            "y": 80
+        },
+        {
+            "attributes": {},
+            "color": "#782820",
+            "id": "AS133543",
+            "label": "DTAC-IX",
+            "size": 12.066666666666666,
+            "x": 82,
+            "y": 82
+        },
+        {
+            "attributes": {},
+            "color": "#281C4C",
+            "id": "AS4750",
+            "label": "CS Loxinfo",
+            "size": 4.333333333333333,
+            "x": 84,
+            "y": 84
+        },
+        {
+            "attributes": {},
+            "color": "#58F653",
+            "id": "AS45455",
+            "label": "2S1N",
+            "size": 0.06666666666666667,
+            "x": 86,
+            "y": 86
+        },
+        {
+            "attributes": {},
+            "color": "#22C424",
+            "id": "AS55403",
+            "label": "PTT ICT",
+            "size": 0.1,
+            "x": 88,
+            "y": 88
+        },
+        {
+            "attributes": {},
+            "color": "#27EC3F",
+            "id": "AS4776",
+            "label": "A-Net",
+            "size": 4.34,
+            "x": 90,
+            "y": 90
+        },
+        {
+            "attributes": {},
+            "color": "#4B049D",
+            "id": "AS137248",
+            "label": "Dots Solutions",
+            "size": 0.16666666666666666,
+            "x": 92,
+            "y": 92
+        },
+        {
+            "attributes": {},
+            "color": "#FCFF2D",
+            "id": "AS56309",
+            "label": "Siam Data",
+            "size": 1.3333333333333333,
+            "x": 94,
+            "y": 94
+        },
+        {
+            "attributes": {},
+            "color": "#268995",
+            "id": "AS132880",
+            "label": "SYMC-IX",
+            "size": 20.866666666666667,
+            "x": 96,
+            "y": 96
+        },
+        {
+            "attributes": {},
+            "color": "#7C79A1",
+            "id": "AS23974",
+            "label": "MOE",
+            "size": 1.6666666666666667,
+            "x": 98,
+            "y": 98
+        },
+        {
+            "attributes": {},
+            "color": "#92EC96",
+            "id": "AS135640",
+            "label": "POP-IDC",
+            "size": 0.6666666666666666,
+            "x": 100,
+            "y": 100
+        },
+        {
+            "attributes": {},
+            "color": "#419519",
+            "id": "AS134166",
+            "label": "TOT-IDC",
+            "size": 1.3333333333333333,
+            "x": 102,
+            "y": 102
+        },
+        {
+            "attributes": {},
+            "color": "#090650",
+            "id": "AS38450",
+            "label": "GIN",
+            "size": 0.03333333333333333,
+            "x": 104,
+            "y": 104
+        },
+        {
+            "attributes": {},
+            "color": "#D99EF7",
+            "id": "AS9587",
+            "label": "Dtac Trinet",
+            "size": 5.333333333333333,
+            "x": 106,
+            "y": 106
+        },
+        {
+            "attributes": {},
+            "color": "#83F957",
+            "id": "AS45796",
+            "label": "BB Connect",
+            "size": 0.3333333333333333,
+            "x": 108,
+            "y": 108
+        },
+        {
+            "attributes": {},
+            "color": "#14A97B",
+            "id": "AS9835",
+            "label": "EGA",
+            "size": 0.03333333333333333,
+            "x": 110,
+            "y": 110
+        },
+        {
+            "attributes": {},
+            "color": "#7CB4B2",
+            "id": "AS4767",
+            "label": "AIT",
+            "size": 0.03333333333333333,
+            "x": 112,
+            "y": 112
+        }
+    ]
+}
