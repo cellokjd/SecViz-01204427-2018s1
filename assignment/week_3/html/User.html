@@ -24,7 +24,7 @@ var dom = document.getElementById("container");
 var myChart = echarts.init(dom);
 var app = {};
 option = null;
-$.get('user.json', function (data) {
+$.get('../data/user.json', function (data) {
     myChart.setOption(option = {
         title: {
             text: '#User'
