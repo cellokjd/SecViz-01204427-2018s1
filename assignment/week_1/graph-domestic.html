@@ -36,7 +36,7 @@ $.getJSON('data_domestic.json', function (json) {
         series : [
             {
                 type: 'graph',
-                layout: 'circular',
+                layout: 'none',
                 // progressiveThreshold: 700,
                 data: json.nodes.map(function (node) {
                     return {

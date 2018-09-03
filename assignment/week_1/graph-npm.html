@@ -25,18 +25,18 @@ var myChart = echarts.init(dom);
 var app = {};
 option = null;
 myChart.showLoading();
-$.getJSON('data_inter.json', function (json) {
+$.getJSON('./data_inter.json', function (json) {
     myChart.hideLoading();
     myChart.setOption(option = {
         title: {
-            text: 'International Exchange'
+            text: 'NPM Dependencies'
         },
         animationDurationUpdate: 1500,
         animationEasingUpdate: 'quinticInOut',
         series : [
             {
                 type: 'graph',
-                layout: 'none',
+                layout: 'force',
                 // progressiveThreshold: 700,
                 data: json.nodes.map(function (node) {
                     return {
