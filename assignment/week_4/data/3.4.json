@@ -1,0 +1,3122 @@
+[
+    {
+        "name": "158.108.101.21:5985",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.101.31:5985",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.101.33",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.101.4",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.102.12",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.102.14",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.102.26",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.110.104",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.110.120",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.110.154",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.123.111:5357",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.123.27:8080",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.123.80:8080",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.14.135",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.180.214:8080",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.181.226:8080",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.181.232:8080",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.183.115:8080",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.192.91",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.194.143:8080",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.194.27:8080",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.194.28",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.194.36:8080",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.194.5",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.196.21",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.196.37",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.196.61",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.198.145:8080",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.20.3",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.200.18",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.201.219",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.205.3",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.206.37",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.206.37:8080",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.207.135",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.207.2",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.207.5:3389",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.212.180",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.215.134",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.215.138",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.215.153",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.216.5",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.217.16",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.219.124",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.219.150",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.219.171",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.219.172",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.219.174",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.219.179",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.219.20",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.219.32",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.219.38",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.219.6",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.219.69",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.219.88",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.220.17",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.220.19",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.220.30",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.220.31",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.220.61",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.220.66",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.24.200",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.25.11",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.25.13",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.26.48:5555",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.3.100",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.34.61",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.4.227",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.4.241",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.4.246",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.44.242",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.5.111:8080",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.50.16",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.51.126",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.52.244",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.52.245",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.64.228",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.68.26",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.69.23",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.76.199",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.79.166:5555",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.80.106",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.80.12",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.80.190",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.80.23",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.80.25",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.80.27",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.80.32:8080",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.80.34",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.80.36",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.80.36:8080",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.80.37",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.80.6:8080",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.80.8",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.80.94",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.80.94:8080",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.81.16",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.81.72",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.82.59",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.89.200",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.95.18",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.96.11",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.96.14",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.96.39",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.97.10",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.97.76",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.97.8",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.99.23",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "academic.human.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "accounts.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "adm.ocs.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "advanse.bus.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "agro.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "apps.coop.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "apsap.kasetsart.org",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "arc.csc.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "arch.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "arts.flas.kps.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "autonomy.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "bsta.agr.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "buddhism.rilc.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "cab.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "cai.human.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "cit.kps.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "civil.eng.kps.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "conference.forest.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "construction.eng.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "course.ku.ac.th:443",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "cpc.webhost.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "cras.ms.src.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "dev.recoftc.org:4082",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "digitallib.vit.src.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "doed.edu.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "doipui.aerdi.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "ebaa.eco.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "ecourse.cpe.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "education.ms.src.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "eduinfo.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "eduroam.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "edus.soc.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "eeec.eng.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "eng-fse.csc.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "ensp.human.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "eoffice.ku.ac.th:8443",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "eoffice.src.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "epidem.vet.kps.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "faqs.grad.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "farm-machinery.agr.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "feedbase.fish.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "fscieng.csc.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "gifted.kus.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "hort.agr.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "hrpp.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "httpheader.net",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "icdc.eto.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "ie.eng.kps.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "iicrd.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "imap.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "impact-www.eng.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "impact.eng.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "indpsy.soc.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "inf.ocs.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "isad.csc.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "jatropha.center.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "journal.eco.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "kasetsart.org",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "kasetsartjsocsci.kasetsart.org",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "kimba.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "ku-numthai.rdi.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "kufirst.center.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "kufsp.center.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "kuservice.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "law.soc.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "lib.vit.src.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "lit.human.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "live.ku.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "lms.sci.src.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "masp.bus.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "master-coop.eco.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "mba.csc.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "mp.kus.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "naist.cpe.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "nec.psd.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "nisit.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "nontrigames.kus.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "nontrinews.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "ofs.soc.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "ogrf.grad.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "oos.flas.kps.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "osc.src.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "pe.edu.kps.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "pe.eng.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "peanut-crsp.kapi.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "ped.edu.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "phd.bus.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "portal.lib.ku.ac.th:10332",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "portal.lib.ku.ac.th:10356",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "psdb.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "psy.soc.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "qa.csc.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "radio.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "rdipt.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "re.kps.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "reg5.src.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "regweb.registrar.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "research.eng.src.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "rice.kps.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "rilc.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "rsv.src.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "sasd.psd.kps.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "sat.ocs.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "sbai.agro.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "sbc.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "sd.grad.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "smart.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "sp-regis.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "ssd.piersa.pl",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "std.flas.kps.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "sugarcanecenter.rdi.kps.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "t-fern.forest.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "taip.agr.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "test.sp.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "trop.agr.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "vet.kps.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "vettech.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "voc.edu.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "webmail.ku.ac.th:443",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.acas.bus.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.agext.agri.kps.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.agron.agr.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.amc.kps.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.bio.flas.kps.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.biochem.flas.kps.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.bioscience.project.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.caer.eco.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.calendar.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.che.eng.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.chem.flas.kps.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.cit.kps.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.cm-mba.bus.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.conference.forest.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.cras.ms.src.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.crvlab.eng.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.des.csc.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.doed.edu.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.edupsy.edu.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.edus.soc.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.emp.eng.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.ento.agr.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.eoffice.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.faqs.grad.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.finance.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.gad.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.go.sa.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.google.pl",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.ia.psd.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.ichcrd2016.kasetsart.org",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.ie.eng.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.kasetsart.org",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.konex.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.ku-iged.psd.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.ku-sall.human.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.ku.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.kuf.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.kulc.lib.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.las.vet.kps.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.lawsp.soc.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.lit.human.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.nisit.kasetsart.org",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.oamc.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.ocs.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.office.eco.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.philos-reli.human.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.physics.sci.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.physio.vet.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.planning.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.quota.forest.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.reg1.src.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.research.ifrpd.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.rpttc.flas.kps.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.sa.sa.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.satitkasetip.kus.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.sbai.agro.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.sci.src.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.sd.grad.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.sep.flas.kps.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.silvic.forest.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.smart.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.sru.agro.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.stbe.eng.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.sw.sa.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.thefabtech.com",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.tjf.forest.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.tpqi.human.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.vnsp.vettech.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.vth.vet.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.vthh.vet.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.webmail.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.webportal.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.wt.eng.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www.zoo.sci.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "www2.kus.ku.ac.th",
+        "value": 0.005331911490269262
+    },
+    {
+        "name": "158.108.102.16",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "158.108.102.18",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "158.108.110.205",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "158.108.110.35",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "158.108.120.11",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "158.108.14.166:8080",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "158.108.144.14",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "158.108.199.2",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "158.108.200.155",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "158.108.219.187",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "158.108.219.35",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "158.108.219.94",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "158.108.220.22",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "158.108.32.60",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "158.108.4.251",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "158.108.49.243:8080",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "158.108.51.125",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "158.108.54.2",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "158.108.70.5",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "158.108.80.10",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "acc5bangkok2015.kasetsart.org",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "access.cs.sci.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "advisor.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "agr.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "alumni.forest.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "apcess2017.kasetsart.org",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "as9411.http.sasm3.net",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "asproject.sci.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "bio.flas.kps.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "botany.sci.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "caer.eco.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "che.eng.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "confucius.human.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "conservation.forest.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "coop.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "coopshop.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "cpc.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "cpe.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "cst.eng.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "dbkps.kps.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "dbs.csc.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "dbs.csc.ku.ac.th:8080",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "digital.forest.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "dnatec.kps.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "dpl.arch.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "dsd.sa.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "edtech.edu.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "edu.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "eve.eng.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "ex-assess.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "geneng.grad.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "human.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "icps2015.kasetsart.org",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "iset2015.kasetsart.org",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "it.cab.kps.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "jindamanee.lib.ku.ac.th:8080",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "knowbita.cpe.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "ku-iged.psd.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "kuseawatch.rdi.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "live.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "mat.eng.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "math.flas.kps.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "mic.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "minimba.bus.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "newgrad.sa.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "nisitmis.csc.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "oamc.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "posaa.kapi.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "rpttc.flas.kps.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "runthailand.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "sa.sa.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "sci.ku.ac.th:8000",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "sqa.eco.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "ss.sa.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "tcf.human.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "training.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "tsjenvi.thaiddns.com",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "vph.vet.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "www.access.cs.sci.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "www.av.eto.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "www.botany.sci.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "www.cbit.arch.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "www.civil.eng.kps.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "www.co-op.psd.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "www.eco.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "www.edtech.edu.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "www.eng.src.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "www.geneng.grad.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "www.hort.agr.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "www.iregis.registrar.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "www.kitman.human.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "www.msp.agro.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "www.osc.src.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "www.polsci.flas.kps.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "www.property.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "www.researchconference.kps.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "www.sinin.kps.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "www.soiltest-ku.agr.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "www.stat.sci.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "www.t-fern.forest.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "zmirror.",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "zoo.sci.ku.ac.th",
+        "value": 0.010663822980538524
+    },
+    {
+        "name": "158.108.44.31",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "158.108.68.25",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "158.108.80.14",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "158.108.81.17",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "158.108.83.4",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "158.108.94.117",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "academicservice.human.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "admin.forest.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "agri.eco.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "agscij.agr.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "archives.psd.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "av.eto.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "cpeg.cpe.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "eassess.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "east.human.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "emediacenter.edu.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "ento.agr.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "esd.psd.kps.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "ess.eco.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "fic.ifrpd.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "forest-admin.forest.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "fph.csc.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "frc.forest.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "grad.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "history.soc.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "ku-online.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "ku-sall.human.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "kupresident13.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "kutrip.mikelab.net",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "lib.kps.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "marketing.bus.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "mfpe.eng.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "mic.eng.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "mike.cpe.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "misreg.csc.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "philos-reli.human.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "portal.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "programming.cpe.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "psreview.soc.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "resource.lib.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "safetybio.agri.kps.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "sci.src.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "seas.soc.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "tech4farmerschallenge.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "tm.human.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "vit.src.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "www.ae.eng.kps.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "www.aiip.agro.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "www.annualconference.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "www.cacs.vet.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "www.cyberlab.lh1.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "www.eto.kps.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "www.hum.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "www.itiche2015.eng.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "www.kucon.lib.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "www.ling.human.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "www.pdmss.agro.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "www.qa.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "www.sbc.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "www2.grad.ku.ac.th",
+        "value": 0.015995734470807786
+    },
+    {
+        "name": "158.108.102.10",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "Nontri.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "acc3d.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "agext.agri.kps.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "annualconference.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "arc.src.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "cs.sci.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "eco.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "edtechelearning.edu.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "envi.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "fe.eng.kps.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "fna.csc.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "forensicscience.flas.kps.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "give.cpe.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "hort.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "ieinter.eng.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "interprogram.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "it.flas.kps.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "kbs.bus.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "ku.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "naist.cpe.ku.ac.th:8000",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "quota.forest.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "reg3.src.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "satitapp.kus.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "secretary.eng.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "wata.eng.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "www.acct.bus.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "www.biodiesel.rdi.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "www.clinicssi.edu.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "www.cpc.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "www.cpe.eng.kps.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "www.eduserv.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "www.ku-press.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "www.mic.eng.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "www.nec.psd.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "www.pirun.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "www.safety.eng.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "www.vet.kps.ku.ac.th",
+        "value": 0.021327645961077047
+    },
+    {
+        "name": "158.108.199.6",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "158.108.80.13",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "158.108.80.5",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "acas.bus.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "becon.eco.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "ca.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "coop.eco.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "dairy.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "ee.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "eng.src.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "eoffice.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "eoffice.rdi.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "halaldb.ifrpd.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "ie.eng.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "information.soc.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "innovation.forest.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "it.vit.src.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "kasetsartjnatsci.kasetsart.org",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "ku-work.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "logs.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "micro.flas.kps.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "office.eco.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "pdmss.agro.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "phd-econ.eco.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "sps.kps.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "vpn.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "www.arch.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "www.emediacenter.edu.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "www.eve.eng.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "www.homec.agr.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "www.irre.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "www.newgrad.sa.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "www.pr.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "www.sa.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "www.vehicle.ku.ac.th",
+        "value": 0.026659557451346308
+    },
+    {
+        "name": "158.108.196.34",
+        "value": 0.03199146894161557
+    },
+    {
+        "name": "158.108.196.58",
+        "value": 0.03199146894161557
+    },
+    {
+        "name": "158.108.203.7",
+        "value": 0.03199146894161557
+    },
+    {
+        "name": "158.108.54.4",
+        "value": 0.03199146894161557
+    },
+    {
+        "name": "aginc.lib.ku.ac.th",
+        "value": 0.03199146894161557
+    },
+    {
+        "name": "council.ku.ac.th",
+        "value": 0.03199146894161557
+    },
+    {
+        "name": "cpeg2.cpe.ku.ac.th",
+        "value": 0.03199146894161557
+    },
+    {
+        "name": "greencampus.ku.ac.th",
+        "value": 0.03199146894161557
+    },
+    {
+        "name": "legal.psd.ku.ac.th",
+        "value": 0.03199146894161557
+    },
+    {
+        "name": "physics.sci.ku.ac.th",
+        "value": 0.03199146894161557
+    },
+    {
+        "name": "portal.lib.ku.ac.th",
+        "value": 0.03199146894161557
+    },
+    {
+        "name": "sp.ku.ac.th",
+        "value": 0.03199146894161557
+    },
+    {
+        "name": "www.ase.eng.ku.ac.th",
+        "value": 0.03199146894161557
+    },
+    {
+        "name": "www.edu.kps.ku.ac.th",
+        "value": 0.03199146894161557
+    },
+    {
+        "name": "www.eng.kps.ku.ac.th",
+        "value": 0.03199146894161557
+    },
+    {
+        "name": "www.kus.ku.ac.th",
+        "value": 0.03199146894161557
+    },
+    {
+        "name": "www.sp.ku.ac.th",
+        "value": 0.03199146894161557
+    },
+    {
+        "name": "www.sps.kps.ku.ac.th",
+        "value": 0.03199146894161557
+    },
+    {
+        "name": "158.108.8.148",
+        "value": 0.03732338043188483
+    },
+    {
+        "name": "158.108.97.12:8081",
+        "value": 0.03732338043188483
+    },
+    {
+        "name": "eeba.eco.ku.ac.th",
+        "value": 0.03732338043188483
+    },
+    {
+        "name": "elab.cpe.ku.ac.th",
+        "value": 0.03732338043188483
+    },
+    {
+        "name": "fishbio.fish.ku.ac.th",
+        "value": 0.03732338043188483
+    },
+    {
+        "name": "info.ms.src.ku.ac.th",
+        "value": 0.03732338043188483
+    },
+    {
+        "name": "kapi.ku.ac.th",
+        "value": 0.03732338043188483
+    },
+    {
+        "name": "kucc28.ku.ac.th",
+        "value": 0.03732338043188483
+    },
+    {
+        "name": "kucon.lib.ku.ac.th",
+        "value": 0.03732338043188483
+    },
+    {
+        "name": "lms.ku.ac.th",
+        "value": 0.03732338043188483
+    },
+    {
+        "name": "rdi.ku.ac.th",
+        "value": 0.03732338043188483
+    },
+    {
+        "name": "reg2.src.ku.ac.th",
+        "value": 0.03732338043188483
+    },
+    {
+        "name": "researchconference.kps.ku.ac.th",
+        "value": 0.03732338043188483
+    },
+    {
+        "name": "student.ku.ac.th",
+        "value": 0.03732338043188483
+    },
+    {
+        "name": "thaiagris.lib.ku.ac.th",
+        "value": 0.03732338043188483
+    },
+    {
+        "name": "www.agri.kps.ku.ac.th",
+        "value": 0.03732338043188483
+    },
+    {
+        "name": "www.cpe.ku.ac.th",
+        "value": 0.03732338043188483
+    },
+    {
+        "name": "www.edu.ku.ac.th",
+        "value": 0.03732338043188483
+    },
+    {
+        "name": "www.ifrpd.ku.ac.th",
+        "value": 0.03732338043188483
+    },
+    {
+        "name": "www.kps.ku.ac.th",
+        "value": 0.03732338043188483
+    },
+    {
+        "name": "158.108.180.3",
+        "value": 0.042655291922154094
+    },
+    {
+        "name": "158.108.220.13",
+        "value": 0.042655291922154094
+    },
+    {
+        "name": "bioff.forest.ku.ac.th",
+        "value": 0.042655291922154094
+    },
+    {
+        "name": "forest.ku.ac.th",
+        "value": 0.042655291922154094
+    },
+    {
+        "name": "ku.ac.th",
+        "value": 0.042655291922154094
+    },
+    {
+        "name": "kuhistory.ku.ac.th",
+        "value": 0.042655291922154094
+    },
+    {
+        "name": "kus.kps.ku.ac.th",
+        "value": 0.042655291922154094
+    },
+    {
+        "name": "mail.ku.ac.th",
+        "value": 0.042655291922154094
+    },
+    {
+        "name": "misweb.csc.ku.ac.th",
+        "value": 0.042655291922154094
+    },
+    {
+        "name": "service.ifrpd.ku.ac.th",
+        "value": 0.042655291922154094
+    },
+    {
+        "name": "www.cab.ku.ac.th",
+        "value": 0.042655291922154094
+    },
+    {
+        "name": "www.cai.ku.ac.th",
+        "value": 0.042655291922154094
+    },
+    {
+        "name": "www.ce.eng.ku.ac.th",
+        "value": 0.042655291922154094
+    },
+    {
+        "name": "www.kps-iged.psd.kps.ku.ac.th",
+        "value": 0.042655291922154094
+    },
+    {
+        "name": "158.108.216.37",
+        "value": 0.04798720341242335
+    },
+    {
+        "name": "158.108.83.3",
+        "value": 0.04798720341242335
+    },
+    {
+        "name": "eng.kps.ku.ac.th",
+        "value": 0.04798720341242335
+    },
+    {
+        "name": "geo.soc.ku.ac.th",
+        "value": 0.04798720341242335
+    },
+    {
+        "name": "jasmine.kps.ku.ac.th",
+        "value": 0.04798720341242335
+    },
+    {
+        "name": "ku-vim.vet.ku.ac.th",
+        "value": 0.04798720341242335
+    },
+    {
+        "name": "mgt.bus.ku.ac.th",
+        "value": 0.04798720341242335
+    },
+    {
+        "name": "newsty.cpe.ku.ac.th",
+        "value": 0.04798720341242335
+    },
+    {
+        "name": "optd.project.ku.ac.th",
+        "value": 0.04798720341242335
+    },
+    {
+        "name": "research.ifrpd.ku.ac.th",
+        "value": 0.04798720341242335
+    },
+    {
+        "name": "webregis.ku.ac.th",
+        "value": 0.04798720341242335
+    },
+    {
+        "name": "www.cs.sci.ku.ac.th",
+        "value": 0.04798720341242335
+    },
+    {
+        "name": "www.soc.ku.ac.th",
+        "value": 0.04798720341242335
+    },
+    {
+        "name": "158.108.94.54",
+        "value": 0.053319114902692616
+    },
+    {
+        "name": "ded.edu.kps.ku.ac.th",
+        "value": 0.053319114902692616
+    },
+    {
+        "name": "fam.csc.ku.ac.th",
+        "value": 0.053319114902692616
+    },
+    {
+        "name": "info.grad.ku.ac.th",
+        "value": 0.053319114902692616
+    },
+    {
+        "name": "iup.eng.ku.ac.th",
+        "value": 0.053319114902692616
+    },
+    {
+        "name": "kasetsartjournal.ku.ac.th",
+        "value": 0.053319114902692616
+    },
+    {
+        "name": "reg.src.ku.ac.th",
+        "value": 0.053319114902692616
+    },
+    {
+        "name": "src.ku.ac.th",
+        "value": 0.053319114902692616
+    },
+    {
+        "name": "www.mirror1.ku.ac.th",
+        "value": 0.053319114902692616
+    },
+    {
+        "name": "www.ms.src.ku.ac.th",
+        "value": 0.053319114902692616
+    },
+    {
+        "name": "www.msftncsi.com",
+        "value": 0.053319114902692616
+    },
+    {
+        "name": "www.pe.eng.ku.ac.th",
+        "value": 0.053319114902692616
+    },
+    {
+        "name": "www.regis.ku.ac.th",
+        "value": 0.053319114902692616
+    },
+    {
+        "name": "158.108.80.32",
+        "value": 0.05865102639296188
+    },
+    {
+        "name": "flas.ku.ac.th",
+        "value": 0.05865102639296188
+    },
+    {
+        "name": "kuappstore.ku.ac.th",
+        "value": 0.05865102639296188
+    },
+    {
+        "name": "kus.ku.ac.th",
+        "value": 0.05865102639296188
+    },
+    {
+        "name": "map.ku.ac.th",
+        "value": 0.05865102639296188
+    },
+    {
+        "name": "pr.ku.ac.th",
+        "value": 0.05865102639296188
+    },
+    {
+        "name": "www.bus.ku.ac.th",
+        "value": 0.05865102639296188
+    },
+    {
+        "name": "www.fish.ku.ac.th",
+        "value": 0.05865102639296188
+    },
+    {
+        "name": "www.inf.ku.ac.th",
+        "value": 0.05865102639296188
+    },
+    {
+        "name": "www.kimba.ku.ac.th",
+        "value": 0.05865102639296188
+    },
+    {
+        "name": "www.mp.kus.ku.ac.th",
+        "value": 0.05865102639296188
+    },
+    {
+        "name": "www.rilc.ku.ac.th",
+        "value": 0.05865102639296188
+    },
+    {
+        "name": "158.108.55.248",
+        "value": 0.06398293788323114
+    },
+    {
+        "name": "chem.flas.kps.ku.ac.th",
+        "value": 0.06398293788323114
+    },
+    {
+        "name": "cpe.eng.kps.ku.ac.th",
+        "value": 0.06398293788323114
+    },
+    {
+        "name": "grader.eng.src.ku.ac.th",
+        "value": 0.06398293788323114
+    },
+    {
+        "name": "ocs.ku.ac.th",
+        "value": 0.06398293788323114
+    },
+    {
+        "name": "person.psd.kps.ku.ac.th",
+        "value": 0.06398293788323114
+    },
+    {
+        "name": "www.lib.kps.ku.ac.th",
+        "value": 0.06398293788323114
+    },
+    {
+        "name": "archives.lib.ku.ac.th",
+        "value": 0.0693148493735004
+    },
+    {
+        "name": "irre.ku.ac.th",
+        "value": 0.0693148493735004
+    },
+    {
+        "name": "ithesis.grad.ku.ac.th",
+        "value": 0.0693148493735004
+    },
+    {
+        "name": "server.cpc.ku.ac.th",
+        "value": 0.0693148493735004
+    },
+    {
+        "name": "www.flas.kps.ku.ac.th",
+        "value": 0.0693148493735004
+    },
+    {
+        "name": "www.ttc.ifrpd.ku.ac.th",
+        "value": 0.0693148493735004
+    },
+    {
+        "name": "158.108.110.14",
+        "value": 0.07464676086376966
+    },
+    {
+        "name": "158.108.196.40",
+        "value": 0.07464676086376966
+    },
+    {
+        "name": "admission.ku.ac.th",
+        "value": 0.07464676086376966
+    },
+    {
+        "name": "dsil.flas.kps.ku.ac.th",
+        "value": 0.07464676086376966
+    },
+    {
+        "name": "std.regis.ku.ac.th",
+        "value": 0.07464676086376966
+    },
+    {
+        "name": "train.eto.ku.ac.th",
+        "value": 0.07464676086376966
+    },
+    {
+        "name": "admission.eng.ku.ac.th",
+        "value": 0.07997867235403892
+    },
+    {
+        "name": "biochemistry.sci.ku.ac.th",
+        "value": 0.07997867235403892
+    },
+    {
+        "name": "jindamanee.lib.ku.ac.th",
+        "value": 0.07997867235403892
+    },
+    {
+        "name": "kasetsartfc.sp.ku.ac.th",
+        "value": 0.07997867235403892
+    },
+    {
+        "name": "webportal.ku.ac.th",
+        "value": 0.07997867235403892
+    },
+    {
+        "name": "wt.eng.ku.ac.th",
+        "value": 0.07997867235403892
+    },
+    {
+        "name": "www.agr.ku.ac.th",
+        "value": 0.07997867235403892
+    },
+    {
+        "name": "158.108.21.9",
+        "value": 0.08531058384430819
+    },
+    {
+        "name": "agkc.lib.ku.ac.th",
+        "value": 0.08531058384430819
+    },
+    {
+        "name": "reg4.src.ku.ac.th",
+        "value": 0.08531058384430819
+    },
+    {
+        "name": "www.east.human.ku.ac.th",
+        "value": 0.08531058384430819
+    },
+    {
+        "name": "www.journal.eco.ku.ac.th",
+        "value": 0.08531058384430819
+    },
+    {
+        "name": "www.lang.human.ku.ac.th",
+        "value": 0.08531058384430819
+    },
+    {
+        "name": "www.safetybio.agri.kps.ku.ac.th",
+        "value": 0.08531058384430819
+    },
+    {
+        "name": "www.sci.ku.ac.th",
+        "value": 0.08531058384430819
+    },
+    {
+        "name": "www.spsgames.kps.ku.ac.th",
+        "value": 0.08531058384430819
+    },
+    {
+        "name": "ase.eng.ku.ac.th",
+        "value": 0.09064249533457745
+    },
+    {
+        "name": "flas.kps.ku.ac.th",
+        "value": 0.09064249533457745
+    },
+    {
+        "name": "nisit.kasetsart.org",
+        "value": 0.09064249533457745
+    },
+    {
+        "name": "reg1.src.ku.ac.th",
+        "value": 0.09064249533457745
+    },
+    {
+        "name": "sa.ku.ac.th",
+        "value": 0.09064249533457745
+    },
+    {
+        "name": "sci.ku.ac.th",
+        "value": 0.09064249533457745
+    },
+    {
+        "name": "spsgames.kps.ku.ac.th",
+        "value": 0.09064249533457745
+    },
+    {
+        "name": "158.108.203.13",
+        "value": 0.0959744068248467
+    },
+    {
+        "name": "158.108.32.49",
+        "value": 0.0959744068248467
+    },
+    {
+        "name": "alldb.kps.ku.ac.th",
+        "value": 0.0959744068248467
+    },
+    {
+        "name": "iad.intaff.ku.ac.th",
+        "value": 0.0959744068248467
+    },
+    {
+        "name": "office.csc.ku.ac.th",
+        "value": 0.0959744068248467
+    },
+    {
+        "name": "pikul.lib.ku.ac.th",
+        "value": 0.0959744068248467
+    },
+    {
+        "name": "www.vet.ku.ac.th",
+        "value": 0.0959744068248467
+    },
+    {
+        "name": "www.vettech.ku.ac.th",
+        "value": 0.0959744068248467
+    },
+    {
+        "name": "www.anchan.lib.ku.ac.th",
+        "value": 0.10130631831511597
+    },
+    {
+        "name": "www.eto.ku.ac.th",
+        "value": 0.10130631831511597
+    },
+    {
+        "name": "www.me.eng.ku.ac.th",
+        "value": 0.10130631831511597
+    },
+    {
+        "name": "www.person.ku.ac.th",
+        "value": 0.10130631831511597
+    },
+    {
+        "name": "agri.kps.ku.ac.th",
+        "value": 0.10663822980538523
+    },
+    {
+        "name": "genetics.sci.ku.ac.th",
+        "value": 0.10663822980538523
+    },
+    {
+        "name": "ibic.lib.ku.ac.th",
+        "value": 0.10663822980538523
+    },
+    {
+        "name": "ppath.agr.ku.ac.th",
+        "value": 0.10663822980538523
+    },
+    {
+        "name": "www.grad.eco.ku.ac.th",
+        "value": 0.10663822980538523
+    },
+    {
+        "name": "academic.kus.ku.ac.th",
+        "value": 0.1119701412956545
+    },
+    {
+        "name": "agron.agr.ku.ac.th",
+        "value": 0.1119701412956545
+    },
+    {
+        "name": "cab.kps.ku.ac.th",
+        "value": 0.11730205278592376
+    },
+    {
+        "name": "www.y-mba.bus.ku.ac.th",
+        "value": 0.11730205278592376
+    },
+    {
+        "name": "e-working.ocs.ku.ac.th",
+        "value": 0.12263396427619301
+    },
+    {
+        "name": "esdpsd.psd.kps.ku.ac.th",
+        "value": 0.12263396427619301
+    },
+    {
+        "name": "pi.eng.src.ku.ac.th",
+        "value": 0.12263396427619301
+    },
+    {
+        "name": "www.buddhism.rilc.ku.ac.th",
+        "value": 0.12263396427619301
+    },
+    {
+        "name": "www.interprogram.ku.ac.th",
+        "value": 0.12263396427619301
+    },
+    {
+        "name": "www.ku-ept.human.ku.ac.th",
+        "value": 0.12263396427619301
+    },
+    {
+        "name": "158.108.68.27",
+        "value": 0.1279658757664623
+    },
+    {
+        "name": "acct.bus.ku.ac.th",
+        "value": 0.1279658757664623
+    },
+    {
+        "name": "fse.csc.ku.ac.th",
+        "value": 0.1279658757664623
+    },
+    {
+        "name": "www2.rdi.ku.ac.th",
+        "value": 0.1279658757664623
+    },
+    {
+        "name": "www.csc.ku.ac.th",
+        "value": 0.13329778725673153
+    },
+    {
+        "name": "biochem.flas.kps.ku.ac.th",
+        "value": 0.1386296987470008
+    },
+    {
+        "name": "calendar.ku.ac.th",
+        "value": 0.1386296987470008
+    },
+    {
+        "name": "chem.sci.ku.ac.th",
+        "value": 0.1386296987470008
+    },
+    {
+        "name": "www.coop.ku.ac.th",
+        "value": 0.1386296987470008
+    },
+    {
+        "name": "158.108.104.25",
+        "value": 0.14929352172753932
+    },
+    {
+        "name": "www.academicservice.human.ku.ac.th",
+        "value": 0.14929352172753932
+    },
+    {
+        "name": "edu.kps.ku.ac.th",
+        "value": 0.15462543321780858
+    },
+    {
+        "name": "158.108.104.12",
+        "value": 0.15995734470807785
+    },
+    {
+        "name": "clgc.agri.kps.ku.ac.th",
+        "value": 0.15995734470807785
+    },
+    {
+        "name": "eduserv.ku.ac.th",
+        "value": 0.15995734470807785
+    },
+    {
+        "name": "ms.src.ku.ac.th",
+        "value": 0.15995734470807785
+    },
+    {
+        "name": "www.eeba.eco.ku.ac.th",
+        "value": 0.15995734470807785
+    },
+    {
+        "name": "www.forest.ku.ac.th",
+        "value": 0.15995734470807785
+    },
+    {
+        "name": "halalinfo.ifrpd.ku.ac.th",
+        "value": 0.1652892561983471
+    },
+    {
+        "name": "vetnp.vet.ku.ac.th",
+        "value": 0.1812849906691549
+    },
+    {
+        "name": "www.rdi.ku.ac.th",
+        "value": 0.1812849906691549
+    },
+    {
+        "name": "iml.cpe.ku.ac.th",
+        "value": 0.18661690215942414
+    },
+    {
+        "name": "www.sci.ku.ac.th:8000",
+        "value": 0.18661690215942414
+    },
+    {
+        "name": "lib.ku.ac.th",
+        "value": 0.1919488136496934
+    },
+    {
+        "name": "agron.agri.kps.ku.ac.th",
+        "value": 0.19728072513996267
+    },
+    {
+        "name": "finance.ku.ac.th",
+        "value": 0.19728072513996267
+    },
+    {
+        "name": "www.human.ku.ac.th",
+        "value": 0.19728072513996267
+    },
+    {
+        "name": "kulc.lib.ku.ac.th",
+        "value": 0.20261263663023193
+    },
+    {
+        "name": "www.corsat.agr.ku.ac.th",
+        "value": 0.20261263663023193
+    },
+    {
+        "name": "e-photopics.eng.ku.ac.th",
+        "value": 0.22927219408157826
+    },
+    {
+        "name": "vth.kps.ku.ac.th",
+        "value": 0.22927219408157826
+    },
+    {
+        "name": "www.kus.kps.ku.ac.th",
+        "value": 0.23993601706211676
+    },
+    {
+        "name": "music.human.ku.ac.th",
+        "value": 0.24526792855238602
+    },
+    {
+        "name": "ifrpd.ku.ac.th",
+        "value": 0.2559317515329246
+    },
+    {
+        "name": "intanin.lib.ku.ac.th",
+        "value": 0.2559317515329246
+    },
+    {
+        "name": "anchan.lib.ku.ac.th",
+        "value": 0.2612636630231938
+    },
+    {
+        "name": "www.regweb.registrar.ku.ac.th",
+        "value": 0.26659557451346305
+    },
+    {
+        "name": "bus.ku.ac.th",
+        "value": 0.2825913089842709
+    },
+    {
+        "name": "ebook.lib.ku.ac.th",
+        "value": 0.2825913089842709
+    },
+    {
+        "name": "kps.ku.ac.th",
+        "value": 0.3145827779258864
+    },
+    {
+        "name": "web.ku.ac.th",
+        "value": 0.3145827779258864
+    },
+    {
+        "name": "sega05.arch.ku.ac.th",
+        "value": 0.32524660090642493
+    },
+    {
+        "name": "pirun.kps.ku.ac.th",
+        "value": 0.3305785123966942
+    },
+    {
+        "name": "econ.eco.ku.ac.th",
+        "value": 0.34124233537723275
+    },
+    {
+        "name": "fin.bus.ku.ac.th",
+        "value": 0.34124233537723275
+    },
+    {
+        "name": "webmail.ku.ac.th",
+        "value": 0.3572380698480405
+    },
+    {
+        "name": "cloudbox.ku.ac.th",
+        "value": 0.36790189282857905
+    },
+    {
+        "name": "ninekaset.kustaff.ku.ac.th",
+        "value": 0.36790189282857905
+    },
+    {
+        "name": "www.becon.eco.ku.ac.th",
+        "value": 0.40522527326046387
+    },
+    {
+        "name": "www.kuer.edu.ku.ac.th",
+        "value": 0.40522527326046387
+    },
+    {
+        "name": "www.lib.ku.ac.th",
+        "value": 0.40522527326046387
+    },
+    {
+        "name": "www.src.ku.ac.th",
+        "value": 0.40522527326046387
+    },
+    {
+        "name": "www.eng.ku.ac.th",
+        "value": 0.41055718475073316
+    },
+    {
+        "name": "www.gerd.eng.ku.ac.th",
+        "value": 0.4585443881631565
+    },
+    {
+        "name": "std.eng.src.ku.ac.th",
+        "value": 0.46920821114369504
+    },
+    {
+        "name": "dorm.admin.src.ku.ac.th",
+        "value": 0.4852039456145028
+    },
+    {
+        "name": "e-learning.csc.ku.ac.th",
+        "value": 0.49586776859504134
+    },
+    {
+        "name": "ku-press.ku.ac.th",
+        "value": 0.5011996800853106
+    },
+    {
+        "name": "nontri.ku.ac.th",
+        "value": 0.5011996800853106
+    },
+    {
+        "name": "www.vit.src.ku.ac.th",
+        "value": 0.5011996800853106
+    },
+    {
+        "name": "fpei.ku.ac.th",
+        "value": 0.5118635030658492
+    },
+    {
+        "name": "www.agro.ku.ac.th",
+        "value": 0.5278592375366569
+    },
+    {
+        "name": "www.re.kps.ku.ac.th",
+        "value": 0.5331911490269261
+    },
+    {
+        "name": "eto.ku.ac.th",
+        "value": 0.5545187949880032
+    },
+    {
+        "name": "www.grad.ku.ac.th",
+        "value": 0.5545187949880032
+    },
+    {
+        "name": "course.ku.ac.th",
+        "value": 0.5865102639296188
+    },
+    {
+        "name": "grade-std.ku.ac.th",
+        "value": 0.5971740869101573
+    },
+    {
+        "name": "ag-ebook.lib.ku.ac.th",
+        "value": 0.6611570247933884
+    },
+    {
+        "name": "www3.rdi.ku.ac.th",
+        "value": 0.7358037856571581
+    },
+    {
+        "name": "kukr.lib.ku.ac.th",
+        "value": 0.7891229005598507
+    },
+    {
+        "name": "csrs.ku.ac.th",
+        "value": 0.8691015729138897
+    },
+    {
+        "name": "theory.cpe.ku.ac.th",
+        "value": 0.9117568648360437
+    },
+    {
+        "name": "cyberlab.lh1.ku.ac.th",
+        "value": 1.0130631831511596
+    },
+    {
+        "name": "zmirror.ipinw.biz",
+        "value": 1.0343908291122368
+    },
+    {
+        "name": "research.rdi.ku.ac.th",
+        "value": 1.1730205278592376
+    },
+    {
+        "name": "www.cab.kps.ku.ac.th",
+        "value": 2.1647560650493203
+    },
+    {
+        "name": "pirun.ku.ac.th",
+        "value": 2.2500666488936285
+    },
+    {
+        "name": "dna.kps.ku.ac.th",
+        "value": 2.4366835510530525
+    },
+    {
+        "name": "agkb.lib.ku.ac.th",
+        "value": 2.4580111970141294
+    },
+    {
+        "name": "doras.psd.ku.ac.th",
+        "value": 3.9189549453479073
+    },
+    {
+        "name": "vet.ku.ac.th",
+        "value": 4.825379898693682
+    },
+    {
+        "name": "www.ku.ac.th",
+        "value": 5.571847507331379
+    },
+    {
+        "name": "158.108.110.29",
+        "value": 14.481471607571315
+    },
+    {
+        "name": "mirror1.ku.ac.th",
+        "value": 19.56811516928819
+    }
+]
